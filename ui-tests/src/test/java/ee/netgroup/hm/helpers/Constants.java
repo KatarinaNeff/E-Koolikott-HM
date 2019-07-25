@@ -5,26 +5,26 @@ import org.openqa.selenium.By;
 public class Constants {
 	
 
-	public static String landingPage = "https://oxygen.netgroupdigital.com/";
-	public static String materialWithCommentsUrl = "https://oxygen.netgroupdigital.com/material?id=11632";
+	public static String landingPage = "https://sitenamehidden/";
+	public static String materialWithCommentsUrl = "https://sitenamehidden/material?id=11632";
 	
 	// Users
-	public static String admin = "https://oxygen.netgroupdigital.com/dev/login/89898989898";
-    public static String publisher = "https://oxygen.netgroupdigital.com/dev/login/12345678900";
-    public static String user = "https://oxygen.netgroupdigital.com/dev/login/38202020234";
-    public static String moderator = "https://oxygen.netgroupdigital.com/dev/login/35012025932";
-    public static String restricted = "https://oxygen.netgroupdigital.com/dev/login/89898989890";
+	public static String admin = "https://sitenamehidden/dev/login/89898989898";
+    public static String publisher = "https://sitenamehidden/dev/login/12345678900";
+    public static String user = "https://sitenamehidden/dev/login/38202020234";
+    public static String moderator = "https://sitenamehidden/dev/login/35012025932";
+    public static String restricted = "https://sitenamehidden/dev/login/89898989890";
     
     public static String mobileIdCode = "11412090004";
     public static String mobilePhoneNumber = "+37200000766";
     public static String mobileIdUser = "Mary Änn O’connež-Šuslik";
     
-    public static String eSchoolUser = "peeter.paan";
-    public static String eSchoolPswd = "parool";
-    public static String eSchoolUserName = "Peeter Paan";
+    public static String eSchoolUser = "test.test";
+    public static String eSchoolPswd = "test";
+    public static String eSchoolUserName = "Test Test";
     
-    public static String stuudiumUser = "Netgroup Test Kaks";
-    public static String stuudiumPswd = "meie teine saladus";
+    public static String stuudiumUser = "Test";
+    public static String stuudiumPswd = "meie test";
     
     public static By loginConfirmationText = By.xpath("//span[contains(text(), 'Oled sisse loginud')]");
     public static String logInModalTitleText = "Kõigepealt palun tuvasta enda isik.";
