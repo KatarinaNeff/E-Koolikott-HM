@@ -4,12 +4,7 @@ import org.openqa.selenium.By;
 
 public class Constants {
 	
-
-<<<<<<< HEAD
 	public static String landingPage = "https://sitenamehidden/";
-=======
-	public static String landingPage = "https://sitenamehidden.com/";
->>>>>>> edf82b9f33966d063b12e82a302c71034ea4cbe4
 	public static String materialWithCommentsUrl = "https://sitenamehidden/material?id=11632";
 	
 	// Users
